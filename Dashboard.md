@@ -8,9 +8,9 @@ summary()
 
 Description:
 
-	```php
+```php
 	array summary()
-	```
+```
 	Returns summary information
   
 Return Values:
