@@ -3,7 +3,7 @@
 class Dashboard
 
 * [summary()](#summary)
-* [summaryByDate](#summarybydate)
+* [summaryByDate()](#summarybydate)
 
 summary
 =========
@@ -50,7 +50,7 @@ The above example will output:
 
 	)
 
-summaryByDate
+summaryByDate()
 =========
   array summaryByDate(string $date)
 
