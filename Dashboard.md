@@ -1,7 +1,5 @@
 #Dashboard
 
-class Dashboard
-
 * [summary()](#summary)
 * [summaryByDate()](#summarybydate)
 
