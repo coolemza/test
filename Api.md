@@ -1,14 +1,12 @@
 #Api
 
-class Api
+* [setApiKey()](#setapikey)
+* [getApiKey()](#getapikey)
+* [setLanguage()](#setlanguage)
+* [getLanguage()](#setapikey)
+* [setErrorHandler()](#seterrorhandler)
 
-* [setApiKey](#setApiKey)
-* [getApiKey](#getApiKey)
-* [setLanguage](#setLanguage)
-* [getLanguage](#setApiKey)
-* [setErrorHandler](#setErrorHandler)
-
-setApiKey
+setApiKey()
 =========
   setApiKey(string $key)
 
@@ -21,7 +19,7 @@ Parameters:
 Example:
 	Api::setApiKey('J0iBErnbzwLz65Keupi3ZIkCkMALnr1x');
 
-getApiKey
+getApiKey()
 =========
   string getApiKey()
 
@@ -31,14 +29,14 @@ Description:
 Return Values:
 	Returns api key.
 
-setLanguage
+setLanguage()
 ===========
   setLanguage(string $language)
 
 Description:
 	Set language.
 
-getLanguage
+getLanguage()
 ===========
   string getLanguage()
 
@@ -48,7 +46,7 @@ Description:
 Return Values:
 	Returns current language.
 
-setErrorHandler
+setErrorHandler()
 ===============
   setErrorHandler(callable $callback)
 
