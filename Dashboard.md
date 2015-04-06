@@ -17,7 +17,7 @@ Return Values:
 
 Example:
 ```php
-	$results = Dashboard::summaryByDate('2015-04-06');
+	$results = Dashboard::summary();
 	print_r($results);
 ```	
 
