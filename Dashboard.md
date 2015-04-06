@@ -10,8 +10,7 @@ Description:
 
 ```php
 	array summary()
-```
-	Returns summary information
+```	Returns summary information
   
 Return Values:
 
