@@ -9,7 +9,7 @@ summary()
 Description:
 
 ```php
-	array summary()
+array summary()
 ```	
 	Returns summary information
   
