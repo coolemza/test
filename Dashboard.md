@@ -6,7 +6,8 @@
 summary()
 =========
 Description:
-`php array summary()' - Returns summary information
+
+	`php array summary()' - Returns summary information
   
 Return Values:
 
