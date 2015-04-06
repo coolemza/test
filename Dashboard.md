@@ -56,9 +56,10 @@ summaryByDate()
 
 Description:
 ```php
-	array summaryByDate(string $date) - Returns array of summary for given date
+array summaryByDate(string $date)
 ```
-
+	Returns array of summary for given date
+	
 Parameters:
 
 	$date - A date string. 
