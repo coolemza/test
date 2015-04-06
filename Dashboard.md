@@ -6,9 +6,9 @@
 summary()
 =========
 Description:
-
+```php
 	array summary()
-
+```
 	Returns summary information.
   
 Return Values:
@@ -51,11 +51,11 @@ The above example will output:
 
 summaryByDate()
 =========
-```php
-  array summaryByDate(string $date)
-```
-Description:
 
+Description:
+```php
+	array summaryByDate(string $date)
+```
 	Returns array of summary for given date.
 
 Parameters:
@@ -66,9 +66,10 @@ Return Values:
 	Returns an associative array containing the following elements: sold_products, profit and active_products.
 
 Example:
-
+```php
 	$results = Dashboard::summaryByDate('2015-04-06');
 	print_r($results);
+```
 
 The above example will output:
 
