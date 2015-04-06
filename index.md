@@ -1,5 +1,5 @@
 #Dashboard
 
 * [Dashboard](Dashboard.md)
-  * [summary()](#summary)
+  * [summary](Dashboard.md#summary)
   * [summaryByDate](#summaryByDate)
