@@ -18,7 +18,7 @@ Return Values:
 	Returns an associative array containing the following elements: products, profit and reservation.
 
 Example:
-```
+```php
 	$results = Dashboard::summaryByDate('2015-04-06');
 	print_r($results);
 ```	
