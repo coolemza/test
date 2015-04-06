@@ -3,7 +3,7 @@
 class Dashboard
 
 * [summary()](#summary)
-* [summaryByDate](#summaryByDate)
+* [summaryByDate](#summarybydate)
 
 summary
 =========
