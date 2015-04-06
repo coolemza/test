@@ -51,8 +51,9 @@ The above example will output:
 
 summaryByDate()
 =========
+```php
   array summaryByDate(string $date)
-
+```
 Description:
 
 	Returns array of summary for given date.
