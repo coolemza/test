@@ -8,47 +8,86 @@
 
 setApiKey()
 =========
-  setApiKey(string $key)
 
 Description:
+  
+	setApiKey(string $key)
+
 	Set api key.
   
 Parameters:
-	$key - api key
+	$key - api key string
 
 Example:
+```php
 	Api::setApiKey('J0iBErnbzwLz65Keupi3ZIkCkMALnr1x');
+```
 
 getApiKey()
 =========
-  string getApiKey()
 
 Description:
+  
+	string getApiKey()
+
 	Get current api key.
   
 Return Values:
-	Returns api key.
+	Returns api key string.
+
+Example:
+```php
+	$apiKey = Api::getApiKey();
+	print_r($results);
+```
+
+The above example will output:
+
+	J0iBErnbzwLz65Keupi3ZIkCkMALnr1x
 
 setLanguage()
 ===========
-  setLanguage(string $language)
 
 Description:
+
+	setLanguage(string $language)
+
 	Set language.
+
+Parameters:
+
+	$language - language tag
+	
+Example:
+```php
+	Api::setLanguage('en');
+```
 
 getLanguage()
 ===========
-  string getLanguage()
 
 Description:
+	string getLanguage()
+
 	Get current language.
 
 Return Values:
 	Returns current language.
 
+Example:
+```php
+	$language = Api::getLanguage();
+	print_r($results);
+```
+
+The above example will output:
+
+	en
+
 setErrorHandler()
 ===============
-  setErrorHandler(callable $callback)
 
 Description:
+	setErrorHandler(callable $callback)
+
 	Set user error handler function.
