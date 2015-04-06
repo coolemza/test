@@ -1,5 +1,5 @@
 #Dashboard
 
-*[Dashboard](#test/Dashboard.md)
+* [Dashboard](#/test/Dashboard.md)
   * [summary()](#summary)
   * [summaryByDate](#summaryByDate)
