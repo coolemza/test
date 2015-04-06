@@ -49,7 +49,7 @@ The above example will output:
 
 	)
 
-summaryByDate()
+array summaryByDate()
 =========
   array summaryByDate(string $date)
 
