@@ -1,11 +1,11 @@
 PHP-SDK Documentation
 
-* [Dashboard](Dashboard.md)
+* [__Dashboard__](Dashboard.md)
   * [summary](Dashboard.md#summary)
   * [summaryByDate](Dashboard.md#summaryByDate)
 * [__Api__](Api.md)
-  * [setApiKey](#setApiKey)
-  * [getApiKey](#getApiKey)
-  * [setLanguage](#setLanguage)
-  * [getLanguage](#setApiKey)
-  * [setErrorHandler](#setErrorHandler)
+  * [setApiKey](Api.md#setApiKey)
+  * [getApiKey](Api.md#getApiKey)
+  * [setLanguage](Api.md#setLanguage)
+  * [getLanguage](Api.md#setApiKey)
+  * [setErrorHandler](Api.md#setErrorHandler)
