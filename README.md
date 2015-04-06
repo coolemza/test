@@ -18,6 +18,7 @@ Example:
 	print_r($results);
 
 The above example will output:
+
 	Array
 	(
 		[sold_products] => 0
