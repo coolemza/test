@@ -53,9 +53,8 @@ summaryByDate()
 
 Description:
 ```php
-	array summaryByDate(string $date)
+	array summaryByDate(string $date) - Returns array of summary for given date
 ```
-	Returns array of summary for given date.
 
 Parameters:
 
