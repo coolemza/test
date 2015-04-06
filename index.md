@@ -2,4 +2,4 @@
 
 * [Dashboard](Dashboard.md)
   * [summary](Dashboard.md#summary)
-  * [summaryByDate](#summaryByDate)
+  * [summaryByDate](Dashboard.md#summaryByDate)
