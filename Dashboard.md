@@ -8,6 +8,7 @@ class Dashboard
 summary
 =========
 Description:
+
 	array summary()
 
 	Returns summary information.
