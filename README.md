@@ -2,7 +2,7 @@
 
 class Dashboard
 
-* [summary()](#summary)
+* [summary()](#summary())
 * [summaryByDate()](#summaryByDate)
 
 summary()
