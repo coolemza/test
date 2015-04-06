@@ -15,8 +15,8 @@ Description:
 	Returns all booking products.
   
 Parameters:
-	$params - associative array:
 
+	$params - associative array:
 		array(
 				'lang'		=>
 				'company'	=>
