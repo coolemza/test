@@ -1,6 +1,5 @@
 #Dashboard
 
-class Dashboard
-
-* [summary()](#summary)
-* [summaryByDate](#summaryByDate)
+*[Dashboard](#Dashboard.md)
+  * [summary()](#summary)
+  * [summaryByDate](#summaryByDate)
