@@ -65,6 +65,7 @@ Parameters:
 	$date - A date string. 
   
 Return Values:
+
 	Returns an associative array containing the following elements: sold_products, profit and active_products.
 
 Example:
