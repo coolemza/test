@@ -3,7 +3,7 @@
 * [summary()](#summary)
 * [summaryByDate()](#summarybydate)
 
-summary
+summary()
 =========
 Description:
 
