@@ -38,7 +38,7 @@ Return Values:
 Example:
 ```php
 	$apiKey = Api::getApiKey();
-	print_r($results);
+	print_r($apiKey);
 ```
 
 The above example will output:
@@ -77,7 +77,7 @@ Return Values:
 Example:
 ```php
 	$language = Api::getLanguage();
-	print_r($results);
+	print_r($language);
 ```
 
 The above example will output:
